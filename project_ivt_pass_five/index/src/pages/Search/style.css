@@ -1,0 +1,40 @@
+.ant-row{
+	margin: 0 !important;
+}
+.wrap-search{
+	padding: 12px;
+	background-color: #f2f3f5;
+}
+.fillter{
+	background-color: white;
+	border-radius: 6px;
+	padding: 20px;
+	position: sticky;
+	width: 100%;
+	top: 60px;
+}
+
+.fillter li{
+	cursor: pointer;
+	padding: 12px 12px 0px;
+}
+
+.search-product{
+	width: 100%;
+	background-color: white;
+	border-radius: 6px;
+	padding: 20px;
+}
+
+.ant-card{
+	width: auto !important;
+}
+
+@media only screen and (max-width: 426px){
+	
+	.search-product{
+		padding: 8px;
+	}
+	
+}
+
